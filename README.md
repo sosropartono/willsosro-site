@@ -1,6 +1,12 @@
 # React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Personal Site 
+
+Features:
+
+Dark Mode, keeping eyes safe @ night
+Books, books i've read in the 2020's
+
 
 While this project uses React, Vite supports many popular JS frameworks. [See all the supported frameworks](https://vitejs.dev/guide/#scaffolding-your-first-vite-project).
 
